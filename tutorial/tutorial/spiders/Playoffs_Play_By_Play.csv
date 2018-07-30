@@ -1,0 +1,9 @@
+age,and1s,astd_pts,drawn_shooting,fga_blkd,fouls_blocking,fouls_offensive,fouls_shooting,fouls_take,g,lg_id,mp,name,pct_1,pct_2,pct_3,pct_4,pct_5,pid,plus_minus_net,plus_minus_on,pos,season,team_id,tov_bad_pass,tov_lost_ball,tov_other
+21,2,32,22,7,,4,4,0,6,NBA,231,Kevin Durant,,20%,79%,1%,,0,6.7,-1.2,SF,2009-10,OKC,5,10,7
+22,8,110,53,17,0,5,28,0,17,NBA,722,Kevin Durant,,,81%,19%,,0,6.3,2.8,SF,2010-11,OKC,11,24,7
+23,6,174,50,12,1,10,23,0,20,NBA,837,Kevin Durant,,,58%,42%,,0,-0.3,3.8,SF,2011-12,OKC,25,25,13
+24,10,172,42,8,1,6,14,1,11,NBA,485,Kevin Durant,,,47%,53%,,0,-0.3,0.8,SF,2012-13,OKC,15,20,8
+25,9,169,55,9,2,6,20,2,19,NBA,815,Kevin Durant,,,62%,37%,1%,0,11.1,0.1,SF,2013-14,OKC,28,34,10
+27,10,145,56,12,1,5,12,1,18,NBA,726,Kevin Durant,,,84%,16%,,0,7.1,6.3,SF,2015-16,OKC,9,51,5
+28,9,150,40,14,1,3,21,0,15,NBA,533,Kevin Durant,,,40%,58%,2%,0,6.0,15.5,PF,2016-17,GSW,18,17,3
+29,5,235,57,14,1,3,22,0,21,NBA,807,Kevin Durant,,,9%,64%,27%,0,10.8,12.3,PF,2017-18,GSW,26,18,6
